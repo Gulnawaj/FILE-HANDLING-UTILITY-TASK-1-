@@ -3,8 +3,15 @@ The Java File Handling Utility is a simple yet practical project that demonstrat
 
 
 #company - CODTECH IT SOLUTION 
+
 #name - GULNAWAJ
+
 #intern id - CT04DG2684
+
 #domain - JAVA PROGRAMMING 
+
 #duration - 4WEEKS
+
 #mentor - NEELA SANTOSH
+
+OUTPUT - 
